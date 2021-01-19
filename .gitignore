@@ -1,3 +1,5 @@
 /ChatConsole.iml
 /server/src/test/
 /server/target/
+/client/client.iml
+/server/server.iml
